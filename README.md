@@ -1,2 +1,4 @@
 # Re2HTTPpcap
 利用scapy构造通过txt请求文本构造http pcap
+
+直接修改dir_path路径为存放txt请求数据文件夹，其他ip和mac可以自己更改
